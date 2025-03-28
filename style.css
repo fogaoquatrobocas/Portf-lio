@@ -1,5 +1,10 @@
 
 /* Conteúdo principal */
+
+body {
+        background-color: #3f3f3f;
+
+}
 main {
     margin-left: 220px;
     padding-top: 80px;
