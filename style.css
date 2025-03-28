@@ -1,10 +1,8 @@
 
 /* Conteúdo principal */
 
-body {
-        background-color: #3f3f3f;
 
-}
+    body {background-color: coral;}
 main {
     margin-left: 220px;
     padding-top: 80px;
