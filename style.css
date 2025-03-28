@@ -8,6 +8,7 @@ main {
     padding-top: 80px;
     width: 100%;
     padding: 20px;
+    background-color: #80ced6;
 }
 
 section {
@@ -27,6 +28,7 @@ section {
 .portfolio-container {
     display: flex;
     gap: 20px;
+    background-color: #80ced6;
 }
 
 .portfolio-item {
@@ -39,6 +41,7 @@ section {
 .portfolio-item img {
     width: 300px;
     border-radius: 8px;
+    background-color: #80ced6;
 }
 
 /* Responsividade */
