@@ -80,8 +80,8 @@ section {
     --cor-frente:#7138e2;
     --cor-verso:#b6c0ee;
     --destaque:#9000ff;
-    --preto:#000000;
-    --branco:#ffffff;
+    --preto:#66ff00;
+    --branco:#00c3ff;
     }
     body{
         background-color: var(#424242);
