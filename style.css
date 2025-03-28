@@ -55,6 +55,7 @@ section {
     main {
         margin-left: 25;
         padding-top: 120px;
+        background-color: #80ced6;
     }
 
     .top-menu {
@@ -88,7 +89,7 @@ section {
         margin: 50%;
     }
     header{
-        background-color: var(--cor-frente);
+        background-color: #80ced6;;
         display: flex;
         justify-content: space-around;
         padding: 2rem;
@@ -101,7 +102,7 @@ section {
     footer{
         position: fixed;
         bottom: 0;
-        background-color: var( --cor-frente);
+        background-color: #80ced6;;
         color: var(--branco);
         width: 100%;
         text-align: center;
